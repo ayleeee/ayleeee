@@ -42,5 +42,6 @@
 
 <div align=center><h2>🌱 TIL </h2></div>
 <div align="center">
-<a href="https://gray-bearberry-e09.notion.site/Docker-Compose-11a8e70c3c8d802c9dbff225d0ad9e86?pvs=74">[Notion] Docker-Compose 파일 작성</a>
+<a href="https://gray-bearberry-e09.notion.site/Docker-Compose-11a8e70c3c8d802c9dbff225d0ad9e86?pvs=74">[Notion] Docker-Compose 파일 작성</a><br>
+<a href="https://gray-bearberry-e09.notion.site/Jenkins-11d8e70c3c8d8065acdcce87b1bfc05e">[Notion] Jenkins 파이프라인 </a>
 </div>
