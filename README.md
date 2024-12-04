@@ -20,7 +20,6 @@ Entry-Level Cloud/DevOps Engineer passionate about building robust infrastructur
 - Developing a high-availability multi-cloud system using AWS and GCP
 - Implementing disaster recovery strategies and automated CI/CD pipelines
 - Utilizing IaC with Terraform for infrastructure management
-- Integrating monitoring and logging solutions with ELK Stack
 
 <div align=center>
 	<h3>📚 SKILLS </h3>
@@ -64,7 +63,7 @@ Entry-Level Cloud/DevOps Engineer passionate about building robust infrastructur
 	<h2>🎓 Certifications & Language Skills</h2>
 </div>
 
-- SQLD (한국데이터산업진흥원)
+- SQLD 
 - TOEIC 955
 - JLPT N1
 
